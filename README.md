@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SurendraKumar Madhavarapu</h1>
+<h1 align="center">Hey Everyone 👋, I'm SurendraKumar Madhavarapu</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mskumarmadhavarapu&label=Profile%20views&color=0e75b6&style=flat" alt="👨‍💻 All of my projects are available at https://github.com/mskumarmadhavarapu" /> </p>
