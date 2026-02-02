@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mskumarmadhavarapu&label=Profile%20views&color=0e75b6&style=flat" alt="👨‍💻 All of my projects are available at https://github.com/mskumarmadhavarapu" /> </p>
 <p align="right"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" "style="text-decoration:none;" ><img src="https://github-profile-trophy.vercel.app/?username=mskumarmadhavarapu" alt="👨‍💻All of my projects are available at https://github.com/mskumarmadhavarapu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mskumarmadhavarapu" alt="👨‍💻All of my projects are available at https://github.com/mskumarmadhavarapu" " style="text-decoration:none;" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mskumarmadhavarapu" alt="📫 How to reach me mskumarmadhavarapu@gmail.com" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
