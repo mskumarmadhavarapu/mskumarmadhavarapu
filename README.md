@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mskumarmadhavarapu&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-<p align="right"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p align="right"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" style="max-width: 400%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 - 👨‍💻 All of my projects are available at https://github.com/mskumarmadhavarapu
 
