@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm SurendraKumar Madhavarapu</h1>
+<h1 align="center">Hey Everyone 👋, I'm Surendra</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <img align="right" alt="coding" width="325" src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif">
